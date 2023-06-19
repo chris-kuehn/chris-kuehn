@@ -1,10 +1,10 @@
-## Hello world! 👋
+# Hello world! 👋
 
-# Art director for digital media with a passion for `C O D E`
+## Art director for analog & digital media with a passion for `C O D E`
 
-
-
-Software and Web-Development Skills
+#editorial design #typography #ux/ia/ui #design thinking #editorial concept
+---
+**Software and Web-Development Skills**
 - **Adobe**
   - XD, Photoshop, Illustrator, InDesign, After Effects
 - **Microsoft**
@@ -17,8 +17,11 @@ Software and Web-Development Skills
   - HTML, CSS, JavaScript
 
 
+![ck-sehrklein](https://github.com/chris-kuehn/chris-kuehn/assets/136816603/3de99453-509c-4e54-94ae-7ce7c62b7209)
+
+
 > Always ready for networking and collaboration!
-> 
+ 
 [Find me on LinkedIn](https://www.linkedin.com/in/christian-k%C3%BChn-283637179/)
 
 
