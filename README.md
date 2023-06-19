@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Art Director for digital media and a passion for `C O D E`
+
 <!--
 **chris-kuehn/chris-kuehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
